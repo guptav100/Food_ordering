@@ -21,3 +21,5 @@ and then scan the QR code from expo-go app.
 Now wait for 1-2min. the application will succesully run on your device.
 *if something gone wrong just press r in command prompt. It will restart the app.
 
+And I am working on this project Rn....after completion of the project
+i'll provide the live application link.
